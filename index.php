@@ -4,7 +4,7 @@
 
 <pre>
 <? php
- print `date`;
+  echo "<body style='background-color:pink'>";
 ?>  
 
 </pre>
